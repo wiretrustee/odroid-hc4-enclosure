@@ -8,3 +8,8 @@ The design was built using:
 
 ![image2.png](images/image2.png)
 ![image1.png](images/image1.png)
+
+3D printed on Creality Ender 3V2
+
+![image2.png](images/print1.png)
+![image1.png](images/print2.png)
