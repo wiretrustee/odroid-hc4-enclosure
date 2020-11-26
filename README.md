@@ -10,6 +10,9 @@ The design was built using:
 ![image1.png](images/image1.png)
 
 3D printed on Creality Ender 3V2
+* Filament: Material4Print PLA Gray aluminum (Graualuminium)
+* Slicer: Cura 4.8 - default settings for Ender series.
+* Print time: ~6h
 
 ![image2.png](images/print1.png)
 ![image1.png](images/print2.png)
